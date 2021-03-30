@@ -1,4 +1,4 @@
-// ÁÖ¼Ò - https://programmers.co.kr/learn/courses/30/lessons/64061?language=cpp
+// ì£¼ì†Œ - https://programmers.co.kr/learn/courses/30/lessons/64061?language=cpp
 #include <string>
 #include <vector>
 #include <stack>
@@ -8,23 +8,23 @@ using namespace std;
 int solution(vector<vector<int>> board, vector<int> moves) {
     int answer = 0;
     stack<int> s;
-    // Move ¾ÆÀÌÅÛ Å½»ö
+    // Move ì•„ì´í…œ íƒìƒ‰
     for (int i = 0; i < moves.size(); i++) {
         int boardIndex = moves.at(i) - 1;
         for (int j = 0; j < board.size(); j++) {
             int item = board[j][boardIndex];
-            // itemÀ» µé°í¿ÔÀ» °æ¿ì
+            // itemì„ ë“¤ê³ ì™”ì„ ê²½ìš°
             if (item != 0) {
-                // stackÀÌ ¾Èºñ°í, topÀÌ itemÀÌ¶û °°Àº °æ¿ì
+                // stackì´ ì•ˆë¹„ê³ , topì´ itemì´ë‘ ê°™ì€ ê²½ìš°
                 if (!s.empty() && s.top() == item) {
                     s.pop();
                     answer += 2;
                 }
-                // stackÀÌ ºñ¾îÀÖ°Å³ª, topÀÌ itemÀÌ¶û °°Áö ¾ÊÀº °æ¿ì
+                // stackì´ ë¹„ì–´ìˆê±°ë‚˜, topì´ itemì´ë‘ ê°™ì§€ ì•Šì€ ê²½ìš°
                 else {
                     s.push(item);
                 }
-                // ±×¸®°í ¾ÆÀÌÅÛ °ªÀ» ²¨³ÁÀ¸´Ï ÃÊ±âÈ­
+                // ê·¸ë¦¬ê³  ì•„ì´í…œ ê°’ì„ êº¼ëƒ‡ìœ¼ë‹ˆ ì´ˆê¸°í™”
                 board[j][boardIndex] = 0;
                 break;
             }
