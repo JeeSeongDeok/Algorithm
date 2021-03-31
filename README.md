@@ -10,6 +10,7 @@
   - [Python 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.py)
 - [크레인 인형뽑기게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=cpp) 
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%ED%81%AC%EB%A0%88%EC%9D%B8_%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0_%EA%B2%8C%EC%9E%84.cpp)
+  - [Python 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0.py)
 - [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.cpp)
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=cpp)
