@@ -17,3 +17,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.cpp)
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
+- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=cpp#)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp) 
