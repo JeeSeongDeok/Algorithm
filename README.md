@@ -39,3 +39,6 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=cpp#)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp) 
+- [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/K%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)
+
