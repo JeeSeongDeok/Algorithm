@@ -15,3 +15,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.cpp)
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C.cpp)
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp)
