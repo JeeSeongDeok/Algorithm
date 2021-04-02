@@ -41,4 +41,6 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.cpp) 
 - [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/K%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=cpp#)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)
 
