@@ -43,6 +43,6 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/K%EB%B2%88%EC%A7%B8%20%EC%88%98.cpp)
 - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=cpp#)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.cpp)
-- [윤년] (https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)
+- [윤년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%9C%A4%EB%85%84.cpp)
 
