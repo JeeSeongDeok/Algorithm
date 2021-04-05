@@ -47,3 +47,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%9C%A4%EB%85%84.cpp)
 - [가운데 글자 ](https://programmers.co.kr/learn/courses/30/lessons/12903?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90.cpp)
+- [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
