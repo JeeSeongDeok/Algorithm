@@ -49,3 +49,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90.cpp)
 - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
+- [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.cpp)
