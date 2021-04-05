@@ -60,3 +60,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp)
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=cpp#)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.cpp)
+- [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.cpp)
