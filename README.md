@@ -51,3 +51,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.cpp)
 - [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.cpp)
+- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.cpp)
