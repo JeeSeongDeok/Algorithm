@@ -55,6 +55,8 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.cpp)
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%82%98%EB%88%84%EC%96%B4%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EC%88%AB%EC%9E%90.cpp)
+- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.cpp)
 #### [레벨 2]
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.cpp)
