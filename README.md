@@ -74,3 +74,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%ED%94%84%EB%A6%B0%ED%84%B0.cpp)
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=cpp#)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.cpp)
+- [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.cpp)
