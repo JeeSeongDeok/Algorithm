@@ -84,3 +84,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)
+- [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=cpp)
+  - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.cpp)
