@@ -21,3 +21,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.cpp)
 - [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=cpp)
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/Level_2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.cpp)
+- [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/Level_2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.kt)
