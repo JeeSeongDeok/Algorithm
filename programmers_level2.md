@@ -25,3 +25,5 @@
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/Level_2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.kt)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/Level_2/%EC%9C%84%EC%9E%A5.kt)
+- [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4.kt)
