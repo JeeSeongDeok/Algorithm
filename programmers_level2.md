@@ -27,3 +27,5 @@
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/Level_2/%EC%9C%84%EC%9E%A5.kt)
 - [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4.kt)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/Level_2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.kt)
