@@ -40,3 +40,5 @@
   - [C++ 코드](https://github.com/Heydosomething/Algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80y%EC%9D%98%20%EA%B0%9C%EC%88%98)
 - [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.kt)
+- [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.kt)
