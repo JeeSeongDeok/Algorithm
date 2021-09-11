@@ -46,3 +46,5 @@
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0.kt)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EB%82%B4%EC%A0%81.kt)
+- [수박문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%3F.kt)
