@@ -48,3 +48,5 @@
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EB%82%B4%EC%A0%81.kt)
 - [수박문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%3F.kt)
+- [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.kt)
