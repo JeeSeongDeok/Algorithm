@@ -52,3 +52,5 @@
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8.kt)
 - [제일 작은 수](https://programmers.co.kr/learn/courses/30/lessons/12935?language=kotlin)
   - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98.kt)
+- [부족한 수 계산](https://programmers.co.kr/learn/courses/30/lessons/82612?language=kotlin)
+  - [Kotlin 코드](https://github.com/JeeSeongDeok/Algorithm/blob/master/programmers/1%EC%A3%BC%EC%B0%A8_%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0.kt)
