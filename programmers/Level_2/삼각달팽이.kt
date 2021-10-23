@@ -15,8 +15,6 @@ class Solution {
                 arr[--row][--col] = iCount++
             }
         }
-
-
         return arr.flatMap { it.filter{ num -> num > 0} }.toIntArray()
     }
 }
