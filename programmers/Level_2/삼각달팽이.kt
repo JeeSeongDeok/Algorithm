@@ -15,6 +15,17 @@ class Solution {
                 arr[--row][--col] = iCount++
             }
         }
+//         for(i in n downTo 0 step(3)){
+//             for(j in 0 until i){
+//                 arr[--row][col] = iCount++
+//             }
+//             for(j in 0 until i-1){
+//                 arr[++row][col] = iCount++
+//             }
+//             for(j in 0 until i-2){
+//                 arr[--row][col] = iCount++
+//             }
+//         }
         return arr.flatMap { it.filter{ num -> num > 0} }.toIntArray()
     }
 }
