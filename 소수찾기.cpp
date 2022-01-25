@@ -21,8 +21,9 @@ int main() {
 			n++;
 		}
 	}
-	if (n == 0)
+	if (n == 0) {
 		cout << -1 << endl;
+	}
 	else {
 		int sum = 0;
 		for (int i = 0; i < n; i++) {
